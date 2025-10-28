@@ -1,16 +1,29 @@
-## Hi there 👋
+ツ Hello, I'm Dimasha Devindi
+---|--> Web Developer <--|---
 
-<!--
-**Dimasha28/Dimasha28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐Technology transforms the world, and I’ve been fascinated by building software since I was a kid—always curious, always experimenting. 💻✨
+Hakmana Dura Dimasha Devindi
+icon icon icon icon icon icon icon icon
 
-Here are some ideas to get you started:
+Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently:
+
+Growing as a Web Developer
+
+🛠 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, React, Angular
+
+Backend: Java, Spring Framework
+
+💬 Let’s connect with me!
+
+
+📈 Current Stats
+
+
+Dimasha Devindi
+
+devindidimasha828@gmail.com
+
