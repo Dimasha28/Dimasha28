@@ -1,4 +1,4 @@
-ツ Hello, I'm Dimasha Devindi
+*ツ Hello, I'm Dimasha Devindi*
 
 ---|--> Web Developer <--|---
 
