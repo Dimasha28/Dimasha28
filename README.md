@@ -1,28 +1,236 @@
-<h1 align="center">Hello,I am Dimasha Devindi</h1>
-<h3 align="center">Website built using HTML5, CSS3, and JavaScript.</h3>
+</tr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasha28&label=Profile%20views&color=0e75b6&style=flat" alt="dimasha28" /> </p>
 
-- Hi, I'm Dimasha Devindi — a passionate web developer. [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+  <tr>
 
-- 🌱 I'm currently learning **React, Node.js, and MongoDB.**
+    <th colspan="2" align="center">
 
-- 🤝 I'm looking to collaborate on **Frontend or full-stack web development projects.**
 
-- 👨‍💻 All of my projects are available at [https://dimashaportfolio.netlify.app/](https://dimashaportfolio.netlify.app/)
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 46 plugins and 330 options!</a></h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and responsive design.**
 
-- 📫 HHow to reach me **devindidimasha828@gmail.com**
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+    </th>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  </tr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasha28&show_icons=true&locale=en&layout=compact" alt="dimasha28" /></p>
+  <tr>
+
+@@ -323,46 +323,56 @@
+
+    </th>
+
+  </tr>
+
+  <tr>
+
+
+    <th><a href="source/plugins/community/crypto/README.md">🪙 Crypto</a><br><sup>by <a href="https://github.com/dajneem23">@dajneem23</a></sup>
+
+
+      <details><summary>Render example</summary>
+
+
+        <img alt="" width="400" src="https://via.placeholder.com/468x60?text=No%20preview%20available" alt=""></img>
+
+
+        <img width="900" height="1" alt="">
+
+
+      </details>
+
+
+    </th>
+
+    <th><a href="source/plugins/community/fortune/README.md">🥠 Fortune</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.fortune.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+  </tr>
+
+
+  <tr>
+
+    <th><a href="source/plugins/community/nightscout/README.md">💉 Nightscout</a><br><sup>by <a href="https://github.com/legoandmars">@legoandmars</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/legoandmars/legoandmars/blob/master/metrics.plugin.nightscout.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+  </tr>
+
+
+  <tr>
+
+    <th><a href="source/plugins/community/poopmap/README.md">💩 PoopMap plugin</a><br><sup>by <a href="https://github.com/matievisthekat">@matievisthekat</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/matievisthekat/matievisthekat/blob/master/metrics.plugin.poopmap.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+  </tr>
+
+
+  <tr>
+
+    <th><a href="source/plugins/community/screenshot/README.md">📸 Website screenshot</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.screenshot.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+  </tr>
+
+
+  <tr>
+
+    <th><a href="source/plugins/community/splatoon/README.md">🦑 Splatoon</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.splatoon.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+  </tr>
+
+
+  <tr>
+
+    <th><a href="source/plugins/community/stock/README.md">💹 Stock prices</a><br><sup>by <a href="https://github.com/lowlighter">@lowlighter</a></sup>
+
+      <details><summary>Render example</summary>
+
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stock.svg" alt=""></img>
+
+        <img width="900" height="1" alt="">
+
+      </details>
+
+    </th>
+
+
+    <th>
+
+
+    </th>
+
+  </tr>
+
+  <tr>
+
+    <th colspan="2" align="center">
+
+@@ -527,37 +537,38 @@
+
+* **[Community plugins](/source/plugins/community/README.md)**
+
+  * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+  * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+
+  * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md) by [@dajneem23](https://github.com/dajneem23)
+
+  * [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+  * [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md) by [@legoandmars](https://github.com/legoandmars)
+
+  * [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md) by [@matievisthekat](https://github.com/matievisthekat)
+
+  * [📸 Website screenshot <sub>`screenshot`</sub>](/source/plugins/community/screenshot/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+  * [🦑 Splatoon <sub>`splatoon`</sub>](/source/plugins/community/splatoon/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+  * [💹 Stock prices <sub>`stock`</sub>](/source/plugins/community/stock/README.md) by [@lowlighter](https://github.com/lowlighter)
+
+
+
+
+
+## 💪 Contributing
+
+
+
+If you are interested in contributing, the following resources may interest you:
+
+
+
+* [💪 Contribution guide](/CONTRIBUTING.md)
+
+* [🧬 Architecture](/ARCHITECTURE.md)
+
+* [📜 License](/LICENSE)
+
+* **:octocat: GitHub resources**
+
+  * [📖 GitHub GraphQL API](https://docs.github.com/en/graphql)
+
+  * [📖 GitHub GraphQL Explorer](https://docs.github.com/en/free-pro-team@latest/graphql/overview/explorer)
+
+  * [📖 GitHub Rest API](https://docs.github.com/en/rest)
+
+  * [📖 GitHub Octicons](https://github.com/primer/octicons)
+
+
+
+Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs reports or to request help for installation.
+
+
+
+
+
+## 📜 License
+
+
+
+```
+
+MIT License
+
+Copyright (c) 2020-present lowlighter
+
+```
+
+
+
+![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
 
 
 
